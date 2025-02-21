@@ -10,3 +10,7 @@ Recommendation 2: Optimizing Lab processing for CVA, Bronchitis NOS, and Acute P
 
 Recommendation 3: Streamlining drug prescription by diagnosis 
 
+![image](https://github.com/user-attachments/assets/b3c8357f-b2c9-4749-a874-db98e6729974)
+
+
+
