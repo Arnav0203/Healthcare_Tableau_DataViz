@@ -1,6 +1,6 @@
 # Healthcare_Tableau_DataViz
 
-This project aims to build data visualization to find insights from a healthcare system's dataset.  The dataset contains information for patients and their visits (such as provider type, drug prescribed etc.). The focus of our analysis is to identify inefficiencies across departments in the hospital’s system. 
+This project aims to build visualizations on Tableau to find insights from a healthcare system's dataset.  The dataset contains information for patients and their visits (such as provider type, drug prescribed etc.). The focus of our analysis is to identify inefficiencies across departments in the hospital’s system. 
 
 **Patient Profile**
 ![image](https://github.com/user-attachments/assets/b3c8357f-b2c9-4749-a874-db98e6729974)
